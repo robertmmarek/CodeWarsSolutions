@@ -1,0 +1,2 @@
+# CodeWarsSolutions
+Solutions for codewars
